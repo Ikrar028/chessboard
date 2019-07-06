@@ -1,4 +1,4 @@
-# chessboar
+# chessboad
 import numpy as np
 chessBoard=np.zeros((8,8),dtype=int)
 
